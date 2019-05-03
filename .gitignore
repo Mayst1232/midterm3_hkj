@@ -1,0 +1,9 @@
+.*
+!.gitignore
+bin
+gradle/
+gradlew*
+gradle.bat
+settings.gradle
+/build/
+/src/main/resources/db.properties
